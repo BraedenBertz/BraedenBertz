@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Braeden Bertz</h1>
 <h3 align="center">Software Engineer and Mathematician</h3>
 
-- 🔭 I’m currently working on **the aztec diamond**
+- 🔭 I’m currently working on **the aztec diamond** and a **personal website** which can be found here:<a href="https://braedenbertz.github.io/Portfolio/" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
