@@ -6,7 +6,7 @@ struct Braeden{
   std::string name, role;
     Braeden() {
         this->name = "Braeden Bertz";
-        this->role = "Software Engineer & Mathematician";
+        this->role = "Software Engineer and Mathematician";
       }
 };
 
@@ -17,9 +17,9 @@ int main() {
 }
 ```
 
-- 👾 I’m currently working on [a personal website](https://braedenbertz.github.io/Portfolio/)
+- 👾 I’m currently working on [a personal website](https://braeden-bertz.netlify.app/)
 
-- 📂 All of my projects are available at [https://braedenbertz.github.io/Portfolio/](https://braedenbertz.github.io/Portfolio/)
+- 📂 All of my projects are available at [github](https://github.com/BraedenBertz)
 
 - ❔ Ask me about **the aztec diamond**
 
