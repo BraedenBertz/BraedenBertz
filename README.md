@@ -17,15 +17,8 @@ int main() {
 }
 ```
 
-- 👾 I’m currently working on [a personal website](https://braeden-bertz.netlify.app/)
+- How to reach me **bbertz@wisc.edu**
 
-- 📂 All of my projects are available at [github](https://github.com/BraedenBertz)
-
-- ❔ Ask me about **the aztec diamond**
-
-- 📫 How to reach me **bbertz@wisc.edu**
-
-- 📄 Know about my experiences [https://github.com/BraedenBertz/resume](https://github.com/BraedenBertz/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
