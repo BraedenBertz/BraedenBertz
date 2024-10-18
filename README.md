@@ -1,23 +1,4 @@
-```
-#include <iostream>
-#include <string>
-
-struct Braeden{
-  std::string name, role;
-    Braeden() {
-        this->name = "Braeden Bertz";
-        this->role = "Software Engineer and Mathematician";
-      }
-};
-
-int main() {
-   Braeden Bertz = Braeden();
-  std::cout << "I am " << Bertz.name << ", a " << Bertz.role << ". Welcome to my profile!" << std::endl;
-    return 0;
-}
-```
-
-- How to reach me **bbertz@wisc.edu**
+- How to reach me **braeden.bertz@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
